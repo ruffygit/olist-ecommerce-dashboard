@@ -1,4 +1,4 @@
-# Olist E-Commerce Performance
+# Olist E-Commerce Performance by Rafi
 
 A responsive, single-page dashboard for Olist sales, delivery, reviews and payment performance. Data is served live by seven read-only Supabase views and visualized with Recharts.
 
